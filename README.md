@@ -12,7 +12,10 @@ A responsive website template built using HTML and CSS.
 - CSS3
 
 ## 📌 Note
-This project is based on a design/template from external sources and implemented for learning purposes.
+This project is based on a design from GraphBerry and implemented for learning purposes.
+
+## 🎨 Design Credit
+GraphBerry
 
 ## 👨‍💻 Developed by
 Ahmad
